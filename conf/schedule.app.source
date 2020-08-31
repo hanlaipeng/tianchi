@@ -1,0 +1,20 @@
+[
+  {
+    "appName":"app_1",
+    "group":"group_1",
+    "gpu":1,
+    "cpu":8,
+    "ram":16,
+    "disk":60,
+    "replicas":2
+  },
+  {
+    "appName":"app_2",
+    "group":"group_2",
+    "gpu":1,
+    "cpu":8,
+    "ram":16,
+    "disk":60,
+    "replicas":2
+  }
+]

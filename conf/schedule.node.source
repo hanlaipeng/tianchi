@@ -1,0 +1,34 @@
+[
+  {
+    "sn":"machine_1",
+    "smName":"smName_1",
+    "gpu":8,
+    "cpu":104,
+    "ram":186,
+    "disk":1000,
+    "eni":10,
+    "topologies":[
+        {
+            "socket":0,
+            "core":0,
+            "cpu":0
+        }
+    ]
+	},
+	{
+        "sn":"machine_2",
+        "smName":"smName_2",
+        "gpu":8,
+        "cpu":104,
+        "ram":186,
+        "disk":1000,
+        "eni":10,
+        "topologies":[
+            {
+                "socket":0,
+                "core":0,
+                "cpu":0
+            }
+        ]
+    	}
+]
